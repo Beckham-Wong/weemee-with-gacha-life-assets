@@ -1,0 +1,96 @@
+<html><head lang="EN-UK"><style>body {transition: opacity ease-in 0.2s; } 
+body[unresolved] {opacity: 0; display: block; overflow: hidden; position: relative; } 
+</style><script type="text/javascript" src="https://web-static.archive.org/_static/js/bundle-playback.js?v=zC7xTh84" charset="utf-8"></script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC" charset="utf-8"></script>
+<script>window.RufflePlayer=window.RufflePlayer||{};window.RufflePlayer.config={"autoplay":"on","unmuteOverlay":"hidden"};</script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/ruffle/ruffle.js"></script>
+<script type="text/javascript">
+    __wm.init("https://web.archive.org/web");
+  __wm.wombat("http://www.saw-you.com:80/flash/menu.aspx?wl=saw-you","20030609202905","https://web.archive.org/","web","https://web-static.archive.org/_static/",
+	      "1055190545");
+</script>
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/banner-styles.css?v=p7PEIJWi">
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/iconochive.css?v=3PDvdIFv">
+<!-- End Wayback Rewrite JS Include -->
+
+		<title>SAW-YOU - Find people you fancy, Mobile Chat and SMS Fun</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+		<meta name="MSSmartTagsPreventParsing" content="true">
+		<meta name="ROBOTS" content="ALL">
+		<meta name="description" content="We've developed our Descriptive Instant Messaging service to allow users to anonymously flirt and chat on their mobile phones. It's fun and it's funky. So register and then go chill out and chat in your own social space and indulge in a little text sex.!">
+		<meta name="Keywords" content="chat, free, free registration, text messages, mobile phone, mobile phone number, email, email address, WAP, text message, sms, sms message, text messaging, chat up lines, dating, romance, love, flirt, fun, text sex, guys, girls, gay, cute guys, gorgeous girls, teen, teen site, WAP sites, wireless internet, prize, prizes, saw-you.com ">
+		<script language="JavaScript"> var javascript_version = 1.0;</script>
+		<script language="JavaScript1.1">  javascript_version = 1.1;</script>
+		<script language="JavaScript">
+
+var newwin;
+
+function launchwin(winurl,winname,winHeight,winWidth)
+{
+	//This launches a new window and then
+	//focuses it if window.focus() is supported.
+	strWindow = "toolbar=no,location=no,status=no,directories=no,menubar=no,scrollbars=yes,resizable=no,width=" + winWidth + ",height=" + winHeight;
+	newwin = window.open(winurl,winname,strWindow);
+	
+	if(javascript_version > 1.0)
+	{
+		//delay a bit here because IE4 encounters errors
+		//when trying to focus a recently opened window
+ 		setTimeout('newwin.focus();',250);
+	}
+}
+
+
+		function popupTerms(){
+			window.open('https://beckham-wong.github.io/weemee-with-gacha-life-assets/terms-popup.aspx','','toolbar=no,status=no,menubar=no,scrollbars=yes,location=no,width=400,height=440');
+		}
+
+function sawYouBiz(){
+	window.open('https://web.archive.org/web/20030609202905/http://www.saw-you.biz/','SAW-YOU.BIZ','toolbar=yes,menubar=yes,scrollbars=yes,');
+}
+
+
+		</script>
+		<link rel="stylesheet" type="text/css" href="/web/20030609202905cs_/http://www.saw-you.com/css/global.aspx?wl=saw-you">
+	<style>undefined</style></head>
+	<body class="mainframe" marginheight="0" marginwidth="0" leftmargin="0" topmargin="0">
+		<object id="SAWYOU" codebase="https://web.archive.org/web/20030609202905oe_/http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" height="450" width="400" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" viewastext="">
+			<param name="_cx" value="10583">
+			<param name="_cy" value="11906">
+			<param name="FlashVars" value="10583">
+			<param name="Movie" value="nav.swf?loadFile=master_xml.aspx?wl=saw-you">
+			<param name="Src" value="nav.swf?loadFile=master_xml.aspx?wl=saw-you">
+			<param name="WMode" value="Window">
+			<param name="Play" value="-1">
+			<param name="Loop" value="-1">
+			<param name="Quality" value="High">
+			<param name="SAlign" value="">
+			<param name="Menu" value="0">
+			<param name="Base" value="">
+			<param name="AllowScriptAccess" value="always">
+			<param name="Scale" value="ShowAll">
+			<param name="DeviceFont" value="0">
+			<param name="EmbedMovie" value="0">
+			<param name="BGColor" value="0077b9">
+			<param name="SWRemote" value="">
+			<ruffle-embed name="SAWYOU" src="https://beckham-wong.github.io/weemee-with-gacha-life-assets/flash/nav.swf?loadFile=master_xml.aspx?wl=saw-you" quality="high" bgcolor="#0077b9" width="400" height="450" type="application/x-shockwave-flash" swliveconnect="true" pluginspage="http://www.macromedia.com/go/getflashplayer"></ruffle-embed>
+			
+		</object>
+		<script language="javascript">
+<!--
+	// function called from other frames to update a user's credits while they are logged in
+function updateCredits(value) {
+	if (navigator.appName.indexOf ("Microsoft") !=-1) {
+   		//window.SAWYOU.SetVariable ("_root.new_credits"," " + value);
+   		top.frames['menuFrame'].SAWYOU.SetVariable ("_root.new_credits"," " + value);   		
+  	} else {
+    	document.SAWYOU.SetVariable ("_root.new_credits"," " + value);
+  }
+}
+
+//-->
+		</script>
+	
+
+
+<veepn-guard-alert><style>@font-face{font-family:FigtreeVF;src:url(chrome-extension://majdfhpaihoncoakbjgbdhglocklcgno/fonts/FigtreeVF.woff2) format("woff2 supports variations"),url(chrome-extension://majdfhpaihoncoakbjgbdhglocklcgno/fonts/FigtreeVF.woff2) format("woff2-variations");font-weight:100 1000;font-display:swap}</style></veepn-guard-alert><veepn-lock-screen><style>@font-face{font-family:FigtreeVF;src:url(chrome-extension://majdfhpaihoncoakbjgbdhglocklcgno/fonts/FigtreeVF.woff2) format("woff2 supports variations"),url(chrome-extension://majdfhpaihoncoakbjgbdhglocklcgno/fonts/FigtreeVF.woff2) format("woff2-variations");font-weight:100 1000;font-display:swap}</style></veepn-lock-screen></body></html>
