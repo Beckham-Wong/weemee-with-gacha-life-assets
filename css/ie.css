@@ -1,0 +1,31 @@
+INPUT.button{ font-size: 10; font-weight: bold; color:#ffffff; 
+background-color: #006699; border-style:none; }INPUT.formElm01 { 
+font-family: Verdana, Arial, sans-serif; font-size: 11px; color: #006699
+; font-weight: bold; border-color: #006699
+; border-style: dashed; border-width: 1px; background-color: #ffffff
+; width: 150px; } INPUT.formElm01Short { font-family: Verdana, Arial, 
+sans-serif; font-size: 11px; color: #006699
+; font-weight: bold; border-color: #006699
+; border-style: dashed; border-width: 1px; background-color: #ffffff
+; width: 75px; }INPUT.formElm01Tiny { font-family: Verdana, Arial, sans-serif; 
+font-size: 11px; color: #006699
+; font-weight: bold; border-color: #006699
+; border-style: dashed; border-width: 1px; background-color: #ffffff
+; width: 30px; } INPUT.formElm01Long { font-family: Verdana, Arial, sans-serif; 
+font-size: 11px; color: #006699
+; font-weight: bold; border-color: #006699
+; border-style: dashed; border-width: 1px; background-color: #ffffff
+; width: 210px; } SELECT.formElm03 { font-family: Verdana, Arial, sans-serif; 
+font-size: 11px; color: #000000; color: #006699
+; font-weight: bold; background-color: #ffffff
+; width: 150px; } SELECT.formElm03_short { font-family: Verdana, Arial, 
+sans-serif; font-size: 11px; color: #000000; color: #006699
+; font-weight: bold; background-color: #ffffff
+; width: 90px; } SELECT.formElm03_long { font-family: Verdana, Arial, 
+sans-serif; font-size: 11px; color: #000000; color: #006699
+; font-weight: bold; background-color: #ffffff
+; width: 175px; } TEXTAREA.formElm04 { font-family: Verdana, Arial, sans-serif; 
+font-size: 11px; color: #006699
+; font-weight: bold; border-color: #006699
+; border-style: dashed; border-width: 1px; background-color: #ffffff
+; }
